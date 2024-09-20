@@ -37,8 +37,8 @@ The remainder of this paper is structured as follows. @sec-mydatasection
 Some of our data is of penguins (@fig-marriage), from @palmerpenguins.
 
 ```{r}
-#| label: fig-marriage
-#| fig-cap: Bills of penguins
+#| label: Number of marriage license issued
+#| fig-cap: Date
 #| echo: false
 
 data |> 
